@@ -21,30 +21,72 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-### 💻 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python" />
+<h3>⚙️ Backend Development</h3>
+<p>
+  <span style="border:1px solid #3b82f6; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Node.js</span>
+  <span style="border:1px solid #10b981; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Express.js</span>
+  <span style="border:1px solid #f59e0b; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Nest.js</span>
+  <span style="border:1px solid #8b5cf6; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">RESTful APIs</span>
+  <span style="border:1px solid #ef4444; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">GraphQL</span>
 </p>
 
-### ⚙️ Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+<h3>🏗️ API Architecture</h3>
+<p>
+  <span style="border:1px solid #06b6d4; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Scalable RESTful API Design</span>
+  <span style="border:1px solid #84cc16; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Modular Clean Architecture</span>
 </p>
 
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<h3>🔐 Authentication & Authorization</h3>
+<p>
+  <span style="border:1px solid #3b82f6; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">JWT</span>
+  <span style="border:1px solid #10b981; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">RBAC</span>
+  <span style="border:1px solid #f59e0b; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Secure Access Systems</span>
 </p>
 
-### 🔧 Tools & Technologies
+<h3>🗄️ Database Engineering</h3>
+<p>
+  <span style="border:1px solid #10b981; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">MongoDB</span>
+  <span style="border:1px solid #3b82f6; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">MySQL</span>
+  <span style="border:1px solid #f59e0b; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Mongoose</span>
+  <span style="border:1px solid #8b5cf6; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Schema Design</span>
+  <span style="border:1px solid #ef4444; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Query Optimization</span>
+</p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,firebase" />
+<h3>🛡️ Backend Security</h3>
+<p>
+  <span style="border:1px solid #ef4444; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">bcrypt</span>
+  <span style="border:1px solid #3b82f6; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Helmet</span>
+  <span style="border:1px solid #10b981; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">CORS</span>
+  <span style="border:1px solid #f59e0b; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Rate Limiting</span>
+  <span style="border:1px solid #8b5cf6; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Security Best Practices</span>
+</p>
+
+<h3>⚡ Real-Time Systems</h3>
+<p>
+  <span style="border:1px solid #06b6d4; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Socket.IO</span>
+  <span style="border:1px solid #84cc16; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Event-Driven Communication</span>
+</p>
+
+<h3>☁️ Cloud & Deployment</h3>
+<p>
+  <span style="border:1px solid #f59e0b; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">AWS</span>
+  <span style="border:1px solid #3b82f6; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Environment Configuration</span>
+</p>
+
+<h3>🛠️ Development Tools</h3>
+<p>
+  <span style="border:1px solid #24292e; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Git</span>
+  <span style="border:1px solid #000000; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">GitHub</span>
+  <span style="border:1px solid #ff6c37; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Postman</span>
+  <span style="border:1px solid #cb3837; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">NPM</span>
+</p>
+
+<h3>🌍 Languages</h3>
+<p>
+  <span style="border:1px solid #10b981; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Arabic (Native)</span>
+  <span style="border:1px solid #3b82f6; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">English (Professional Working Proficiency)</span>
 </p>
 
 ---

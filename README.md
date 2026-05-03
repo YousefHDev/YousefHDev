@@ -1,255 +1,137 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Yousef Hesham | Backend Developer</title>
+# Hi there, I'm Yousef Hisham 👋
 
-  <style>
-    *{
-      margin:0;
-      padding:0;
-      box-sizing:border-box;
-      font-family: Arial, Helvetica, sans-serif;
-    }
+<div align="center">
 
-    body{
-      background:#0f172a;
-      color:white;
-      padding:40px;
-      line-height:1.7;
-    }
+### Software Engineer | Node.js Backend Developer | Computer Science Graduate
 
-    .container{
-      max-width:1000px;
-      margin:auto;
-    }
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer+%F0%9F%94%A5;MERN+Stack+Developer+%F0%9F%9A%80;Node.js+%7C+Express.js+%7C+MongoDB;React.js+Developer+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%93%9A" alt="Typing SVG" />
 
-    .hero{
-      text-align:center;
-      margin-bottom:50px;
-    }
+</div>
 
-    .hero h1{
-      font-size:60px;
-      color:#38bdf8;
-      margin-bottom:10px;
-    }
+---
 
-    .hero h2{
-      font-size:28px;
-      color:#cbd5e1;
-      margin-bottom:20px;
-    }
+## 🚀 About Me
 
-    .hero p{
-      max-width:700px;
-      margin:auto;
-      color:#94a3b8;
-      font-size:18px;
-    }
+🎓 Computer Science Graduate from the Arab Open University
+💻 Passionate Software Engineer specialized in MERN Stack Development
+🔥 Focused on building scalable backend systems and modern web applications
+📚 Constantly improving my skills in Backend Development, System Design, and Software Engineering
+🌍 Languages: Arabic, English (B2)
+⚡ Interested in Node.js Internals, Databases, APIs, Authentication Systems, and Clean Architecture
 
-    .section-title{
-      font-size:32px;
-      margin-bottom:25px;
-      color:#38bdf8;
-      border-left:5px solid #38bdf8;
-      padding-left:15px;
-    }
+---
 
-    .about{
-      margin-bottom:50px;
-    }
+## 🛠️ Tech Stack
 
-    .about p{
-      color:#cbd5e1;
-      font-size:18px;
-    }
+### 💻 Programming Languages
 
-    .skills{
-      display:flex;
-      flex-wrap:wrap;
-      gap:15px;
-      margin-bottom:50px;
-    }
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python" />
+</p>
 
-    .skill{
-      padding:12px 22px;
-      border-radius:12px;
-      border:2px solid;
-      font-weight:bold;
-      transition:0.3s;
-      cursor:pointer;
-    }
+### ⚙️ Backend Development
 
-    .skill:hover{
-      transform:translateY(-5px);
-    }
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
 
-    .blue{
-      border-color:#38bdf8;
-      color:#38bdf8;
-    }
+### 🎨 Frontend Development
 
-    .green{
-      border-color:#22c55e;
-      color:#22c55e;
-    }
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
 
-    .yellow{
-      border-color:#eab308;
-      color:#eab308;
-    }
+### 🗄️ Databases
 
-    .purple{
-      border-color:#a855f7;
-      color:#a855f7;
-    }
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
-    .red{
-      border-color:#ef4444;
-      color:#ef4444;
-    }
+### 🔧 Tools & Technologies
 
-    .projects{
-      margin-bottom:50px;
-    }
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,firebase" />
+</p>
 
-    .project-card{
-      background:#1e293b;
-      padding:25px;
-      border-radius:16px;
-      margin-bottom:20px;
-      border:1px solid #334155;
-    }
+---
 
-    .project-card h3{
-      color:#38bdf8;
-      margin-bottom:10px;
-    }
+## 📌 Current Focus
 
-    .project-card p{
-      color:#cbd5e1;
-    }
+* 🔥 Advanced Backend Development with Node.js
+* ⚡ Building REST APIs & Authentication Systems
+* 🧠 Learning System Design & Database Internals
+* 🚀 Improving Problem Solving & Software Architecture Skills
+* 🌐 Expanding into Full Stack & AI Integration
 
-    .contact{
-      margin-top:50px;
-    }
+---
 
-    .contact a{
-      display:block;
-      width:fit-content;
-      margin-bottom:15px;
-      text-decoration:none;
-      color:white;
-      background:#1e293b;
-      padding:15px 25px;
-      border-radius:12px;
-      transition:0.3s;
-      border:1px solid #334155;
-    }
+## 📂 Featured Projects
 
-    .contact a:hover{
-      background:#38bdf8;
-      color:#0f172a;
-      transform:scale(1.05);
-    }
+### 💼 Job Search App
 
-    footer{
-      margin-top:60px;
-      text-align:center;
-      color:#64748b;
-    }
+A full-featured MERN Stack Job Search Platform with:
 
-  </style>
-</head>
+* Authentication & Authorization
+* Google OAuth
+* Real-time Notifications
+* Job Applications System
+* Company & User Management
+* Admin Dashboard
+* GraphQL Integration
+* Clean Architecture & Modular Structure
 
-<body>
 
-  <div class="container">
+---
 
-    <section class="hero">
-      <h1>Yousef Hesham</h1>
-      <h2>Backend Developer 🚀</h2>
+## 📈 GitHub Stats
 
-      <p>
-        Passionate Backend Developer specialized in building scalable APIs,
-        authentication systems, and modern web applications using Node.js
-        and backend technologies.
-      </p>
-    </section>
+<div align="center">
 
-    <section class="about">
-      <h2 class="section-title">About Me</h2>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 
-      <p>
-        Computer Science graduate passionate about backend development,
-        clean architecture, databases, and scalable systems.
-        I enjoy building modern applications and continuously improving
-        my software engineering skills.
-      </p>
-    </section>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-    <section>
-      <h2 class="section-title">Skills</h2>
+</div>
 
-      <div class="skills">
+---
 
-        <div class="skill blue">Node.js</div>
-        <div class="skill green">Express.js</div>
-        <div class="skill yellow">MongoDB</div>
-        <div class="skill purple">MySQL</div>
-        <div class="skill red">PostgreSQL</div>
+## 🔥 GitHub Streak
 
-        <div class="skill blue">JavaScript</div>
-        <div class="skill green">TypeScript</div>
-        <div class="skill yellow">REST APIs</div>
-        <div class="skill purple">Authentication</div>
-        <div class="skill red">JWT</div>
+<div align="center">
 
-        <div class="skill blue">Git & GitHub</div>
-        <div class="skill green">Docker</div>
-        <div class="skill yellow">Postman</div>
-        <div class="skill purple">Clean Architecture</div>
-        <div class="skill red">Problem Solving</div>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
-      </div>
-    </section>
+</div>
 
-    <section class="projects">
-      <h2 class="section-title">Featured Project</h2>
+---
 
-      <div class="project-card">
-        <h3>Job Search App</h3>
+## 🌍 Connect With Me
 
-        <p>
-          Full-featured backend system for a job search platform including
-          authentication, authorization, Google OAuth, company management,
-          job applications, admin dashboard, real-time notifications,
-          and modular clean architecture.
-        </p>
-      </div>
+<p align="left">
+  <a href="mailto:yasinhesham76@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-    </section>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-    <section class="contact">
-      <h2 class="section-title">Contact With Me</h2>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-      <a href="mailto:adhamh430@gmail.com">
-        📧 adhamh430@gmail.com
-      </a>
+---
 
-      <a href="https://linkedin.com/in/yousef-hesham-416863319" target="_blank">
-        💼 LinkedIn Profile
-      </a>
+## ✨ Fun Fact
 
-    </section>
+> "Great software is built with clean code, continuous learning, and consistency." 🚀
 
-    <footer>
-      <p>© 2026 Yousef Hesham — Backend Developer</p>
-    </footer>
+---
 
-  </div>
+<div align="center">
 
-</body>
-</html>
+### Thanks for visiting my profile ❤️
+
+</div>
+

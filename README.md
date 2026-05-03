@@ -1,10 +1,10 @@
-# Hi there, I'm Yousef Hisham 👋
+# Hi there, I'm Yousef Hesham 👋
 
 <div align="center">
 
-### Software Engineer | Node.js Backend Developer | Computer Science Graduate
+### Backend Developer 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer+%F0%9F%94%A5;MERN+Stack+Developer+%F0%9F%9A%80;Node.js+%7C+Express.js+%7C+MongoDB;React.js+Developer+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer+🔥;Node.js+%7C+Express.js+%7C+MongoDB;Building+Scalable+Backend+Systems+🚀;Always+Learning+New+Technologies+📚" alt="Typing SVG" />
 
 </div>
 
@@ -12,12 +12,12 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science Graduate from the Arab Open University
-💻 Passionate Software Engineer specialized in MERN Stack Development
-🔥 Focused on building scalable backend systems and modern web applications
-📚 Constantly improving my skills in Backend Development, System Design, and Software Engineering
+🎓 Computer Science Graduate
+💻 Passionate Backend Developer specialized in building scalable backend systems and modern web applications
+🔥 Focused on APIs, Authentication Systems, Databases, and Clean Architecture
+📚 Constantly improving my skills in Backend Development and Software Engineering
 🌍 Languages: Arabic, English (B2)
-⚡ Interested in Node.js Internals, Databases, APIs, Authentication Systems, and Clean Architecture
+⚡ Interested in Node.js Internals, Databases, APIs, and System Design
 
 ---
 
@@ -33,12 +33,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-</p>
-
-### 🎨 Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
 </p>
 
 ### 🗄️ Databases
@@ -61,15 +55,15 @@
 * ⚡ Building REST APIs & Authentication Systems
 * 🧠 Learning System Design & Database Internals
 * 🚀 Improving Problem Solving & Software Architecture Skills
-* 🌐 Expanding into Full Stack & AI Integration
+* 🌐 Expanding into AI Integration
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Project
 
 ### 💼 Job Search App
 
-A full-featured MERN Stack Job Search Platform with:
+A full-featured backend system including:
 
 * Authentication & Authorization
 * Google OAuth
@@ -80,52 +74,27 @@ A full-featured MERN Stack Job Search Platform with:
 * GraphQL Integration
 * Clean Architecture & Modular Structure
 
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 ## 🌍 Connect With Me
 
 <p align="left">
-  <a href="mailto:yasinhesham76@gmail.com">
+
+  <a href="mailto:adhamh430@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/">
+  <a href="https://linkedin.com/in/yousef-hesham-416863319">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 ## ✨ Fun Fact
 
-> "Great software is built with clean code, continuous learning, and consistency." 🚀
+> "Great backend systems are built with clean code, scalability, and consistency." 🚀
 
 ---
 
@@ -134,4 +103,5 @@ A full-featured MERN Stack Job Search Platform with:
 ### Thanks for visiting my profile ❤️
 
 </div>
+
 

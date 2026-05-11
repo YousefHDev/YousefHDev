@@ -23,17 +23,36 @@
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
-| **Backend** | Node.js, Express.js, RESTful APIs |
-| **API Architecture** | Scalable RESTful API Design, Modular Clean Architecture |
-| **Auth & AuthZ** | JWT, RBAC, Secure Access Systems |
-| **Database** | MongoDB, Mongoose, Schema Design, Data Modeling, Query Optimization |
-| **Security** | bcrypt, Helmet, CORS, Rate Limiting, Security Best Practices |
-| **Real-Time** | Socket.IO, Event-Driven Communication |
-| **Cloud & Deployment** | AWS, Environment Configuration |
-| **Tools** | Git, GitHub, Postman, NPM |
-| **Languages** | Arabic (Native), English (Professional) |
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🔐 Authentication & Authorization
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-9C27B0?style=for-the-badge&logo=auth0&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### 🛡️ Security
+![bcrypt](https://img.shields.io/badge/bcrypt-525252?style=for-the-badge&logo=bcrypt&logoColor=white)
+![Helmet](https://img.shields.io/badge/Helmet-0082C9?style=for-the-badge&logo=helmet&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-FF5733?style=for-the-badge&logo=cors&logoColor=white)
+
+### ⚡ Real-Time
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🌍 Languages
+![Arabic](https://img.shields.io/badge/Arabic_Native-2E7D32?style=for-the-badge&logo=arabic&logoColor=white)
+![English](https://img.shields.io/badge/English_Professional-1565C0?style=for-the-badge&logo=duolingo&logoColor=white)
 ---
 
 ## 📌 Current Focus

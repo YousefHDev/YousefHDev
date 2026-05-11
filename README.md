@@ -21,52 +21,19 @@
 
 ---
 
-🛠️ Tech Stack
-⚙️ Backend Development
-https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat
-https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat
-https://img.shields.io/badge/-RESTful_APIs-FF6C37?style=flat
+## 🛠️ Tech Stack
 
-🏗️ API Architecture
-https://img.shields.io/badge/-Scalable_RESTful_API-4CAF50?style=flat
-https://img.shields.io/badge/-Modular_Clean_Architecture-2196F3?style=flat
-
-🔐 Authentication & Authorization
-https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white&style=flat
-https://img.shields.io/badge/-RBAC-9C27B0?style=flat
-https://img.shields.io/badge/-Secure_Access_Systems-FF9800?style=flat
-
-🗄️ Database Engineering
-https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat
-https://img.shields.io/badge/-Mongoose-880000?style=flat
-https://img.shields.io/badge/-Schema_Design-00BCD4?style=flat
-https://img.shields.io/badge/-Data_Modeling-3F51B5?style=flat
-https://img.shields.io/badge/-Query_Optimization-009688?style=flat
-
-🛡️ Backend Security
-https://img.shields.io/badge/-bcrypt-525252?style=flat
-https://img.shields.io/badge/-Helmet-0082C9?style=flat
-https://img.shields.io/badge/-CORS-FF5733?style=flat
-https://img.shields.io/badge/-Rate_Limiting-E91E63?style=flat
-https://img.shields.io/badge/-Security_Best_Practices-607D8B?style=flat
-
-⚡ Real-Time Systems
-https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white&style=flat
-https://img.shields.io/badge/-Event_Driven-FFC107?style=flat
-
-☁️ Cloud & Deployment
-https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat
-https://img.shields.io/badge/-Environment_Config-2C3E50?style=flat
-
-🛠️ Development Tools
-https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat
-https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat
-https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat
-https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat
-
-🌍 Languages
-https://img.shields.io/badge/-Arabic_Native-2E7D32?style=flat
-https://img.shields.io/badge/-English_Professional-1565C0?style=flat
+| Category | Technologies |
+|----------|--------------|
+| **Backend** | Node.js, Express.js, RESTful APIs |
+| **API Architecture** | Scalable RESTful API Design, Modular Clean Architecture |
+| **Auth & AuthZ** | JWT, RBAC, Secure Access Systems |
+| **Database** | MongoDB, Mongoose, Schema Design, Data Modeling, Query Optimization |
+| **Security** | bcrypt, Helmet, CORS, Rate Limiting, Security Best Practices |
+| **Real-Time** | Socket.IO, Event-Driven Communication |
+| **Cloud & Deployment** | AWS, Environment Configuration |
+| **Tools** | Git, GitHub, Postman, NPM |
+| **Languages** | Arabic (Native), English (Professional) |
 ---
 
 ## 📌 Current Focus

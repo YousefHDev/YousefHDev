@@ -21,93 +21,52 @@
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+🛠️ Tech Stack
+⚙️ Backend Development
+https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat
+https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat
+https://img.shields.io/badge/-RESTful_APIs-FF6C37?style=flat
 
-<h3>⚙️ Backend Development</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" />
-  <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" />
-</p>
+🏗️ API Architecture
+https://img.shields.io/badge/-Scalable_RESTful_API-4CAF50?style=flat
+https://img.shields.io/badge/-Modular_Clean_Architecture-2196F3?style=flat
 
-<p>
-  <span style="border:1px solid #3b82f6; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">RESTful APIs</span>
-</p>
+🔐 Authentication & Authorization
+https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white&style=flat
+https://img.shields.io/badge/-RBAC-9C27B0?style=flat
+https://img.shields.io/badge/-Secure_Access_Systems-FF9800?style=flat
 
-<h3>🏗️ API Architecture</h3>
-<p>
-  <span style="border:1px solid #06b6d4; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Scalable RESTful API Design</span>
-  
-  <span style="border:1px solid #84cc16; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Modular Clean Architecture</span>
-</p>
+🗄️ Database Engineering
+https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat
+https://img.shields.io/badge/-Mongoose-880000?style=flat
+https://img.shields.io/badge/-Schema_Design-00BCD4?style=flat
+https://img.shields.io/badge/-Data_Modeling-3F51B5?style=flat
+https://img.shields.io/badge/-Query_Optimization-009688?style=flat
 
-<h3>🔐 Authentication & Authorization</h3>
-<p>
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" height="40" />
-  
-  <span style="border:1px solid #10b981; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">RBAC</span>
+🛡️ Backend Security
+https://img.shields.io/badge/-bcrypt-525252?style=flat
+https://img.shields.io/badge/-Helmet-0082C9?style=flat
+https://img.shields.io/badge/-CORS-FF5733?style=flat
+https://img.shields.io/badge/-Rate_Limiting-E91E63?style=flat
+https://img.shields.io/badge/-Security_Best_Practices-607D8B?style=flat
 
-  <span style="border:1px solid #f59e0b; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Secure Access Systems</span>
-</p>
+⚡ Real-Time Systems
+https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white&style=flat
+https://img.shields.io/badge/-Event_Driven-FFC107?style=flat
 
-<h3>🗄️ Database Engineering</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
-  
-  <span style="border:1px solid #f59e0b; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Mongoose</span>
+☁️ Cloud & Deployment
+https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat
+https://img.shields.io/badge/-Environment_Config-2C3E50?style=flat
 
-  <span style="border:1px solid #8b5cf6; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Schema Design</span>
+🛠️ Development Tools
+https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat
+https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat
+https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat
+https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat
 
-  <span style="border:1px solid #ef4444; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Data Modeling</span>
-
-  <span style="border:1px solid #06b6d4; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Query Optimization</span>
-</p>
-
-<h3>🛡️ Backend Security</h3>
-<p>
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" height="40" />
-  
-  <span style="border:1px solid #ef4444; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">bcrypt</span>
-
-  <span style="border:1px solid #3b82f6; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Helmet</span>
-
-  <span style="border:1px solid #10b981; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">CORS</span>
-
-  <span style="border:1px solid #f59e0b; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Rate Limiting</span>
-
-  <span style="border:1px solid #8b5cf6; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Security Best Practices</span>
-</p>
-
-<h3>⚡ Real-Time Systems</h3>
-<p>
-  <img src="https://cdn.simpleicons.org/socketdotio/ffffff" height="40" />
-
-  <span style="border:1px solid #84cc16; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Event-Driven Communication</span>
-</p>
-
-<h3>☁️ Cloud & Deployment</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" height="40" />
-
-  <span style="border:1px solid #3b82f6; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">Environment Configuration</span>
-</p>
-
-<h3>🛠️ Development Tools</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="40" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" />
-  <img src="https://skillicons.dev/icons?i=npm" height="40" />
-</p>
-
-<h3>🌍 Languages</h3>
-<p>
-  <span style="border:1px solid #10b981; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">🇪🇬 Arabic (Native)</span>
-
-  <span style="border:1px solid #3b82f6; padding:6px 12px; border-radius:8px; margin:4px; display:inline-block;">🇺🇸 English (Professional Working Proficiency)</span>
-</p>
+🌍 Languages
+https://img.shields.io/badge/-Arabic_Native-2E7D32?style=flat
+https://img.shields.io/badge/-English_Professional-1565C0?style=flat
 ---
 
 ## 📌 Current Focus

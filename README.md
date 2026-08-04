@@ -1,111 +1,250 @@
 # 💻 Yousef Hesham
 
-## 🚀 Full Stack Developer | Backend Specialist
+## 🚀 Full Stack Developer | Backend Architect
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Specialist;API+Architect;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Specialist;API+Architect;System+Designer;Problem+Solver" alt="Typing SVG" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hey there! I'm a passionate **Full Stack JavaScript Developer** with a strong focus on building **scalable backend systems** and **modern web applications**. With **2+ years** of hands-on experience, I specialize in creating robust, secure, and efficient solutions that solve real-world problems.
+```javascript
+const yousef = {
+  title: "Full Stack Developer",
+  specialization: ["Backend Systems", "API Architecture", "Database Design"],
+  experience: "2+ years",
+  education: "B.Sc. Computer Science",
+  location: "Cairo, Egypt",
+  languages: ["Arabic (Native)", "English (Professional)"],
+  interests: ["Node.js Internals", "System Design", "AI-Assisted Development"],
+  motto: "Building scalable, secure, and efficient solutions"
+};
+```
 
-- 🎓 **Computer Science Graduate** - Arab Open University (Grade: B)
-- 🎯 **Specialized in:** APIs, Authentication Systems, Databases & Clean Architecture
-- 🌍 **Languages:** Arabic (Native) | English (Professional Working Proficiency)
-- 💡 **Interests:** Node.js Internals, Database Optimization, System Design, AI-Assisted Development
+> 🎯 **Computer Science Graduate** | **Backend Specialist** | **Clean Architecture Advocate**
 
----
-
-## 🛠️ Tech Stack
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Database & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Security & Real-Time
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+I'm passionate about crafting **robust backend systems** and **modern web applications** that solve real-world problems. With a strong foundation in **Node.js**, **Express.js**, and **React.js**, I focus on building **scalable**, **secure**, and **maintainable** solutions.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Arsenal
 
-### 🔹 Job Search Platform - Full Backend System
-> **Complete job portal backend with real-time features**
+### 🎯 Core Technologies
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Backend</b></td>
+      <td>Node.js · Express.js · Nest.js · REST APIs · GraphQL</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Frontend</b></td>
+      <td>React.js · JavaScript (ES6+) · Redux Toolkit · Tailwind CSS · Bootstrap</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Database</b></td>
+      <td>MongoDB · MySQL · Mongoose · Schema Design · Query Optimization</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Security</b></td>
+      <td>JWT · RBAC · bcrypt · Helmet · CORS · Rate Limiting</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Real-Time</b></td>
+      <td>Socket.IO · Event-Driven Architecture</td>
+    </tr>
+    <tr>
+      <td align="center"><b>AI Tools</b></td>
+      <td>ChatGPT · Claude AI · GitHub Copilot · Cursor AI · OpenAI Codex</td>
+    </tr>
+  </table>
+</div>
 
-- Designed **25+** RESTful API endpoints with authentication & role-based access
-- Built JWT-based system with **3 distinct user roles** (Admin, Company, User)
-- Implemented **10+** MongoDB schemas with optimized queries
-- Real-time chat & notifications using **Socket.IO**
-- GraphQL-powered Admin Dashboard
-- Security: Helmet, CORS, Rate Limiting, Password Hashing
+### 🚀 Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
-### 🔹 Social Media Backend API
-> **Modular architecture for social platforms**
+---
 
-- **4 independent modules** (Auth, Post, Comment, User)
-- **20+** API endpoints with JWT authentication
-- File upload handling for profile & post images
-- GraphQL integration for flexible data querying
+## 🏆 Featured Projects
 
-### 🔹 Saraha - Anonymous Messaging
+### 1️⃣ 🔹 Job Search Platform - Full Backend System
+> **Enterprise-grade job portal with real-time features**
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ 🎯 25+ RESTful API Endpoints                               │
+│ 🔐 JWT Authentication with 3 User Roles (Admin/Company/User)│
+│ 📊 10+ MongoDB Schemas with Optimized Queries              │
+│ 💬 Real-time Chat & Notifications via Socket.IO           │
+│ 📈 GraphQL Admin Dashboard                                 │
+│ 🛡️ Security: Helmet, CORS, Rate Limiting, Password Hashing │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Tech Stack:** Node.js · Express.js · MongoDB · Socket.IO · GraphQL · JWT
+
+---
+
+### 2️⃣ 🔹 Social Media Backend API
+> **Modular social platform architecture**
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ 📦 4 Independent Modules (Auth/Post/Comment/User)          │
+│ 🔗 20+ API Endpoints with Protected Middleware             │
+│ 🖼️ File Upload for Profile & Post Images                   │
+│ ⚡ GraphQL Integration for Optimized Queries               │
+│ 🏗️ Clean Service-Controller Pattern                       │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Tech Stack:** Node.js · Express.js · MongoDB · GraphQL · JWT · Multer
+
+---
+
+### 3️⃣ 🔹 Saraha - Anonymous Messaging Application
 > **Secure anonymous communication platform**
 
-- **15+** secure API endpoints
-- JWT authentication & user management
-- Clean service-controller modular pattern
-- MongoDB storage with validation middleware
+```
+┌─────────────────────────────────────────────────────────────┐
+│ 🔒 15+ Secure API Endpoints                                │
+│ 👤 JWT Authentication & User Management                   │
+│ 📱 Anonymous Messaging System                             │
+│ 🏗️ Clean Service-Controller Pattern                      │
+│ ✅ Validation Middleware for Data Integrity               │
+└─────────────────────────────────────────────────────────────┘
+```
 
-### 🔹 DevJobs - Full Stack Frontend
+**Tech Stack:** Node.js · Express.js · MongoDB · JWT · Validation Middleware
+
+---
+
+### 4️⃣ 🔹 DevJobs - Full Stack Ready Frontend
 > **Modern job listing platform**
 
-- Responsive design with reusable React components
-- Search, filtering, pagination, and dark mode
-- Mobile-first responsive layouts
+```
+┌─────────────────────────────────────────────────────────────┐
+│ 🎨 Responsive Design with Reusable React Components        │
+│ 🔍 Search, Filtering & Pagination                         │
+│ 🌙 Dark Mode Support                                      │
+│ 📱 Mobile-First Responsive Layout                         │
+│ 🏗️ Component-Based Architecture                          │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Tech Stack:** React.js · JavaScript (ES6+) · CSS3 · Responsive Design
 
 ---
 
-## 🎯 Core Competencies
+### 5️⃣ 🔹 Movie Explorer
+> **Interactive movie browsing application**
 
-| Category | Skills |
-|----------|--------|
-| **Backend** | Node.js, Express.js, Nest.js, RESTful APIs, GraphQL |
-| **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind, Redux Toolkit |
-| **Database** | MongoDB, MySQL, Mongoose, Schema Design, Query Optimization |
-| **Security** | JWT, RBAC, bcrypt, Helmet, CORS, Rate Limiting |
-| **Real-Time** | Socket.IO, Event-Driven Communication |
-| **AI Tools** | ChatGPT, Claude AI, GitHub Copilot, Cursor AI, OpenAI Codex |
-| **Dev Tools** | Git, GitHub, Postman, NPM, Vercel, Render |
+```
+┌─────────────────────────────────────────────────────────────┐
+│ 🎬 OMDb/TMDB API Integration                              │
+│ 🔍 Advanced Search & Filtering                            │
+│ ⭐ Favorites System with Local Storage                    │
+│ 🚦 Loading States & Error Handling                       │
+│ 🎨 Reusable Components & Routing                         │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Tech Stack:** React.js · JavaScript (ES6+) · CSS3 · Local Storage · REST API
 
 ---
 
-## 📊 GitHub Stats
+## 💪 Core Competencies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YousefHDev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefHDev&layout=compact&theme=radical" alt="Top Languages" />
+  <table>
+    <tr>
+      <td align="center">
+        <b>🔧 Backend Engineering</b><br/>
+        API Design · Clean Architecture · Microservices · Scalability
+      </td>
+      <td align="center">
+        <b>🔐 Security</b><br/>
+        Authentication · Authorization · Data Protection · Best Practices
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>🗄️ Database Design</b><br/>
+        Schema Modeling · Query Optimization · Indexing · Relationships
+      </td>
+      <td align="center">
+        <b>🤖 AI-Assisted Development</b><br/>
+        Code Generation · Debugging · Refactoring · Rapid Prototyping
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>📱 Frontend Development</b><br/>
+        React.js · Responsive Design · State Management · UX/UI
+      </td>
+      <td align="center">
+        <b>🚀 Deployment</b><br/>
+        Vercel · Render · Environment Configuration · CI/CD
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 📫 Connect with Me
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YousefHDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefHDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YousefHDev&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YousefHDev&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophy" width="48%" />
+</div>
+
+---
+
+## 🌟 Soft Skills
+
+<div align="center">
+  <table>
+    <tr>
+      <td>💬 Strong Communication</td>
+      <td>🧠 Critical Thinking</td>
+    </tr>
+    <tr>
+      <td>🔍 Analytical Mindset</td>
+      <td>🎯 Ownership & Accountability</td>
+    </tr>
+    <tr>
+      <td>🔄 Adaptability</td>
+      <td>🤝 Team Collaboration</td>
+    </tr>
+    <tr>
+      <td>📚 Continuous Learning</td>
+      <td>🎨 Problem Solving</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📫 Let's Connect!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yousef-hesham-416863319/">
@@ -124,14 +263,29 @@ Hey there! I'm a passionate **Full Stack JavaScript Developer** with a strong fo
 
 ---
 
-## 💬 Fun Fact
+## 🎯 Current Focus
 
-> "I build backend systems that are so secure, even I need permission to access them!" 😄
+```javascript
+const currentFocus = {
+  learning: ["System Design", "Microservices", "Cloud Architecture"],
+  improving: ["Node.js Performance", "Database Optimization"],
+  building: "Scalable Backend Systems with Clean Architecture",
+  goal: "Master Full Stack Engineering with Focus on Backend Excellence"
+};
+```
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YousefHDev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   
-  ### ⭐ Show some love by starring my repositories!
+  <br/>
+  
+  <img src="https://img.shields.io/badge/💻_Code_with_Passion-00D4FF?style=for-the-badge" />
+  
+  <br/>
+  
+  > "Building the future, one line of code at a time."
+
+  ⭐ **Feel free to explore my repositories and star your favorites!**
 </div>
